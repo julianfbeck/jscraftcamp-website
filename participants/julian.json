@@ -1,0 +1,23 @@
+// vim: ft=jsonc
+{
+	"realName": {
+		"givenName": "Julian",
+		"familyName": "Beck",
+		"hideFamilyNameOnWebsite": true
+	},
+	"githubAccountName": "julianfbeck",
+	"company": "inovex",
+	"when": {
+		// June 12th, 2026
+		"friday": true,
+		// June 13th, 2026
+		"saturday": true
+	},
+	"iCanTakeNotesDuringSessions": true,
+	"tags": ["TypeScript", "Astro", "Golang", "Cloud", "DevOps", "iOS"],
+	"whatIsMyConnectionToJavascript": "I'm a Cloud Platform Engineer at inovex and use TypeScript for my personal website, side projects, and tooling around my iOS apps.",
+	"whatCanIContribute": "Perspectives from DevOps, Cloud, and iOS development, and how web tech fits into building and shipping side projects.",
+	"linkedin": "https://www.linkedin.com/in/julian-beck/",
+	"X": "julianfbeck",
+	"website": "https://julianbeck.com"
+}
