@@ -14,10 +14,10 @@
 		"saturday": true
 	},
 	"iCanTakeNotesDuringSessions": true,
-	"tags": ["AI Agents", "MCP", "LLMs", "Agentic Workflows", "Cloud Engineering"],
+	"tags": ["AI Agents", "MCP", "Agentic Workflows", "Cloud Engineering"],
 	"whatIsMyConnectionToJavascript": "Cloud Platform Engineer at inovex — I build my website and AI tooling in TypeScript; most of my recent work revolves around coding agents and MCP. On the side I build indie iOS and Android apps.",
 	"whatCanIContribute": "Sessions on AI coding agents, MCP, and agentic workflow patterns — topics I speak about at meetups. Happy to share experiences from cloud engineering and indie iOS/Android app development too.",
 	"linkedin": "https://www.linkedin.com/in/julian-beck/",
 	"X": "julianfbeck",
-	"website": "https://julianbeck.com"
+	"website": "https://juli.sh"
 }
